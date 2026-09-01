@@ -1,0 +1,6 @@
+{
+  "name": "Catat Pengeluaran Usaha",
+  "description": "Aplikasi pencatatan pengeluaran bisnis dan UMKM dengan struktur HPP, OPEX, CAPEX, Prive, alokasi produk, IndexedDB, dan PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
